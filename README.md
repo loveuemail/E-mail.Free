@@ -1,2 +1,3 @@
-# e-mail.free
-e-mail.free home page
+# E-mail.Free
+### Your Free E-mail Alias
+The ultimate standard for encrypted and secure email is finally here.
